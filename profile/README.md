@@ -1,3 +1,3 @@
 ## Welcome to VSI Lab! 
 
-We are the Vision Systems and Intelligence (VSI) Laboratory at the University of Arizona. Our laboratory aims to develop robust and efficient deep learning systems for computer vision and medical imaging, focusing on creating intelligent systems optimized for resource-constrained environments.
+We are the Vision Systems and Intelligence (VSI) Laboratory at the University of Arizona. Our laboratory focuses on advanced computer vision, medical image analysis, and artificial intelligence, with an emphasis on multimodal learning, deep learning efficiency, and real-world applications in healthcare and autonomous systems.
