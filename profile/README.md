@@ -3,4 +3,4 @@
 Our research explores advanced computer vision, medical image analysis, and artificial intelligence. 
 By bridging engineering and medicine, we aim to enable intelligent, human-centered systems for real-world healthcare and autonomous applications.
 
-[Build Status](https://sites.google.com/view/eungjoolee/home?authuser=0)
+[Lab Web](https://sites.google.com/view/eungjoolee/home?authuser=0)
