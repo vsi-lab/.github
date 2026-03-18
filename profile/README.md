@@ -1,4 +1,4 @@
-## Vision Systems and Intelligence (VSI) Laboratory
+## Vision Systems and Intelligence (VSI) Lab. @ UofA
 
 Grounded intelligence in perception and reasoning for medical and autonomous systems.
 
