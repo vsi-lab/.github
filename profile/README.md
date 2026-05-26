@@ -1,4 +1,4 @@
-## Vision Systems and Intelligence (VSI) Lab. @ UofA
+## Vision Systems and Intelligence (VSI) Lab @ UofA
 
 Developing reliable AI systems that integrate perception, reasoning, and decision-making for real-world autonomous and healthcare environments.
 
