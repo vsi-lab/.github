@@ -1,4 +1,4 @@
-## Vision Systems and Intelligence (VSI) Lab @ UArizona
+## Vision Systems and Intelligence Lab @ UArizona
 
 Advancing vision-centric intelligence for autonomy and medicine
 
